@@ -19,6 +19,10 @@ I hold a master’s degree in computer science from The Ohio State University an
 
 ## Book and selected writing
 
+- [Shashank Agarwal: Building Noveum AI and API.market](https://noveum.ai/en/blog/shashank-agarwal-noveum-api-market-founder) · founder profile with dated platform scale figures
+- [Why I Built API.market After PipFeed](https://dev.to/imshashank/why-i-built-apimarket-after-pipfeed-2nep) · DEV
+- [A Correct HTTP Response Can Still Produce a Bad Agent Outcome](https://noveum.ai/en/blog/http-success-is-not-agent-task-success) · Noveum
+
 - **[Intelligence at Scale](https://intelligenceatscale.ai)**: my book on LLMs, agents, and production AI. [The diagram collection](https://github.com/imshashank/intelligence-at-scale-diagrams) accompanies the book.
 - [Integrating Evaluation into Your Agent Development Workflow](https://noveum.ai/en/blog/eval-driven-development-guide) · Noveum
 - [The AI Agent Feedback Loop: From Evaluation to Continuous Improvement](https://dev.to/imshashank/the-ai-agent-feedback-loop-from-evaluation-to-continuous-improvement-5hm4) · DEV
@@ -29,6 +33,9 @@ I hold a master’s degree in computer science from The Ohio State University an
 More writing: [DEV](https://dev.to/imshashank) · [Medium](https://medium.com/@imshashank)
 
 ## Speaking
+
+<img src="https://noveum.ai/blog-assets/blog/9a8b3c75-13b9-4660-9a7b-27bd0cedaac1.jpg" alt="Shashank Agarwal seated with a microphone" width="320">
+
 
 I speak about production AI, agent evaluation and reliability, API infrastructure, and lessons from building developer products. [Speaker profile →](https://sessionize.com/shashank-agarwal/)
 
